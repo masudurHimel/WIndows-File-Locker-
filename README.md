@@ -1,4 +1,4 @@
-# WIndows-File-Locker-
+# Windows File Locker 
 This is a .bat file, that will lock your file with password protection<br>
 
 Steps for use : 
